@@ -17,7 +17,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import com.google.android.gms.maps.model.PolylineOptions;
 
 public class MainActivity extends AppCompatActivity {
-
+//finished
     private FusedLocationProviderClient mFusedLocationProviderClient;
 
     private final LatLng bascomHallLatLng = new LatLng(43.0757378, -89.4062004);
